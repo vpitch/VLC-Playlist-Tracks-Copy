@@ -1,6 +1,3 @@
-# VLC-Playlist-Tracks-Copy
-A VLC Lua extension for macOS that copies all local tracks from the current playlist into a chosen folder.
-=======
 # VLC Playlist Copy (Lua Extension)
 
 A VLC Lua extension for macOS that copies all local media files from the current VLC playlist into a folder you choose.
